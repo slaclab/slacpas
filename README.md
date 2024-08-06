@@ -24,7 +24,7 @@ and restart the terminal.
 
 
 ## Clone this repository
-All labs will are uploaded to this repository. Please clone this repository using [GitHub Desktop](https://github.com/apps/desktop) or using `git` on the command line. 
+All labs are uploaded to this repository. Please clone this repository using [GitHub Desktop](https://github.com/apps/desktop) or using `git` on the command line. 
 To clone the repository on the command line use the following command in a terminal:
 ```
 git clone https://github.com/slaclab/slacpas.git
@@ -32,10 +32,10 @@ git clone https://github.com/slaclab/slacpas.git
 The repository (folder) will then be in the location where you executed the ```git clone``` command. 
 
 
-## Create the `slacpas2024` software environment
-In the same terminal, change directories to the slacpas2024 repo you cloned:
+## Create the `slacpas24` software environment
+In the same terminal, change directories to the slacpas repo you cloned:
 ```bash
-cd slacpas2024
+cd slacpas
 ```
 
 This repository contains a file `environment.yml`. 
@@ -45,9 +45,9 @@ On the command line, execute the following command:
 conda env create -f environment.yml
 ```
 
-Now activate the `slacpas2024` environment:
+Now activate the `slacpas24` environment:
 ```bash
-conda activate fel2024
+conda activate slacpas24
 ```
 and test that Jupyter lab works:
 ```
