@@ -1,5 +1,5 @@
 # SLACPAS 2024 Class
-Repository for the lab portion of SLACPAS course (August 2024). Some exercises and instructions are borrow from the USPAS FEL class held in July 2024. Exercises from that class can be found here: https://github.com/uspas/fel2024/tree/main.
+Repository for the lab portion of SLACPAS course (August 2024). Some exercises and instructions are borrowed or expanded from the USPAS FEL class held in 2021 & 2024. Exercises from the USPAS classes can be found here [2024](https://github.com/uspas/fel2024/tree/main) and here [2021](https://github.com/uspas/FEL2021).
 
 
 # Installation 
@@ -55,9 +55,9 @@ jupyter lab
 ```
 
 ## Download Genesis4 examples 
-Download LUME-Genesis' Genesis4 examples: [lume_genesis_genesis4_examples](https://github.com/slaclab/lume-genesis/releases/download/v1.1.0/lume_genesis_genesis4_examples.zip).
+Additional LUME-Genesis' (Genesis4) examples can be downloaded from  here: [lume_genesis_genesis4_examples](https://github.com/slaclab/lume-genesis/releases/download/v1.1.0/lume_genesis_genesis4_examples.zip).
 
-Try these using Jupyter lab in the `slacpas2024` environment.
+Try these using Jupyter lab in the `slacpas24` environment.
 
 The Genesis4 manual can also be found at the following repo: [https://github.com/svenreiche/Genesis-1.3-Version4](https://github.com/svenreiche/Genesis-1.3-Version4)
 
