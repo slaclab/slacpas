@@ -1,11 +1,11 @@
 # SLACPAS 2024 Class
-Repository for the lab portion of SLACPAS course (August 2024).
+Repository for the lab portion of SLACPAS course (August 2024). Some exercises and instructions are borrow from the USPAS FEL class held in July 2024. Exercises from that class can be found here: https://github.com/uspas/fel2024/tree/main.
 
 
 # Installation 
 
 The software for the class can run natively on Linux and macOS. Windows users will need to install a Linux distribution (e.g. Ubuntu) using WSL2.
-Or alternatively, you can request a Jupyter Lab account at Sirepo.com[https://www.sirepo.com/en/]. You will need to use your Stanford email and allow 1-2 days for approval.
+Or alternatively, you can request a Jupyter Lab account at [Sirepo.com](https://www.sirepo.com/en/). You will need to use your Stanford email and allow 1-2 days for approval.
 Then you will be able to install and run the software in a browser. 
 
 
@@ -54,21 +54,10 @@ and test that Jupyter lab works:
 jupyter lab
 ```
 
-
 ## Download Genesis4 examples 
 Download LUME-Genesis' Genesis4 examples: [lume_genesis_genesis4_examples](https://github.com/slaclab/lume-genesis/releases/download/v1.1.0/lume_genesis_genesis4_examples.zip).
 
-Try these using Jupyter lab in the `fel2024` environment.
+Try these using Jupyter lab in the `slacpas2024` environment.
 
 The Genesis4 manual can also be found at the following repo: [https://github.com/svenreiche/Genesis-1.3-Version4](https://github.com/svenreiche/Genesis-1.3-Version4)
-
-
-## Group assignments: 
-| Group      | Members |
-| ----------- | ----------- |
-| 1   | Alex B., Gerrit B., Claire H.  |
-| 2   | Martin K., An L., Kaela V.     |
-| 3   | Leon F., Krishna M., Aditya W. |
-| 4   | Aditya T., Emmanuel A., Irene W. |
-| 5   | Muhammed Z., Janardan U. |
 
