@@ -1,0 +1,43 @@
+&setup
+rootname=lcls-II
+lattice=lcls-II.lat
+beamline=FEL
+lambda0=3.0000e-9
+gamma0=6862
+delz=0.039000
+shotnoise=0
+nbins = 8
+&end
+
+&lattice
+zmatch=9
+&end
+
+&field
+power=4000
+dgrid=2.000000e-04
+ngrid=255
+waist_size=30e-6
+#harm = 1
+&end
+
+
+&beam
+current=1000
+delgam=1
+ex=1.2e-06
+ey=1.24e-06
+&end
+
+&write
+beam=beginning
+&end
+
+&track
+#output_step = 50
+#field_dump_at_undexit=True
+&end
+
+&write
+beam=end
+&end
