@@ -1,0 +1,14 @@
+# conda env create -f environment.yml
+name: slacpas24
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - genesis4 >=4.6.6=mpi_openmpi*
+  - lume-genesis
+  - pytest
+  - zfel
+  - jupyterlab>=3
+  - jupyterlab-lsp
+  - ffmpeg
+  - ipywidgets
